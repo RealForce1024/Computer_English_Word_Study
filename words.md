@@ -31,3 +31,15 @@ modifier form   if,unless,while,until --on the same line as the statement
 in ruby false and nil objects are false and everything else is true!
 triple equal:===  sometimes it's not about beginning exactly equal.
 case expression
+hardly used
+prefer
+range data type
+ternary operator
+factorial
+block
+implicit
+explicit
+chunks
+chops off
+rescue
+alternative
