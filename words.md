@@ -43,3 +43,10 @@ chunks
 chops off
 rescue
 alternative
+optimize
+interpolation
+frequent
+concept we will become familiar with core concepts behind Ruby on Rails
+conclude
+consuming
+facet
