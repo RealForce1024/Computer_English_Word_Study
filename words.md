@@ -50,3 +50,4 @@ concept we will become familiar with core concepts behind Ruby on Rails
 conclude
 consuming
 facet
+soldier
