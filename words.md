@@ -54,3 +54,4 @@ soldier
 github |giz^b|
 stick around 
 derive from
+avatar
