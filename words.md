@@ -56,3 +56,4 @@ stick around
 derive from
 avatar
 instruction
+symbol
