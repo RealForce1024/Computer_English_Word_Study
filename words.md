@@ -57,3 +57,9 @@
 # avatar
 # instruction
 # symbol
+# diabetes
+# expense
+# scenarios
+# diagnosis
+
+
