@@ -62,9 +62,9 @@
 # scenarios
 # diagnosis
 # experiments
-# solve precisely the problems
-# massive scale
-
+# solve precisely the problems 精确地解决问题
+# massive scale 大规模 
+# scale to web 网络规模化 
 
 
 
