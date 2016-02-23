@@ -65,6 +65,9 @@
 # solve precisely the problems 精确地解决问题
 # massive scale 大规模 
 # scale to web 网络规模化 
+# predict 预测
+# demographic 人口统计的，人口统计学的
+# base on 基于
 
 
 
