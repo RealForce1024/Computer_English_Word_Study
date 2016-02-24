@@ -68,7 +68,7 @@
 # predict 预测
 # demographic 人口统计的，人口统计学的
 # base on 基于
-
+# sensor 传感器
 
 
 
