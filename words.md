@@ -72,6 +72,6 @@
 # sensor 传感器
 # sin 犯罪
 # scala for the impatient
-
+# reasignment 重新分配，再赋值
 
 
