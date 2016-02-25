@@ -71,6 +71,7 @@
 # base on 基于
 # sensor 传感器
 # sin 犯罪
+# scala for the impatient
 
 
 
