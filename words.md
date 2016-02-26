@@ -73,5 +73,5 @@
 # sin 犯罪
 # scala for the impatient
 # reasignment 重新分配，再赋值
-
+# MEAP（指的是Manning Early Access Program)
 
