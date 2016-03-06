@@ -74,4 +74,5 @@
 # scala for the impatient
 # reasignment 重新分配，再赋值
 # MEAP（指的是Manning Early Access Program)
-
+# automated plant 自动化工厂
+# manufactural 制造业的
