@@ -76,3 +76,4 @@
 # MEAP（指的是Manning Early Access Program)
 # automated plant 自动化工厂
 # manufactural 制造业的
+# significant 重大的
