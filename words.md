@@ -77,3 +77,4 @@
 # automated plant 自动化工厂
 # manufactural 制造业的
 # significant 重大的
+# zionist 犹太复国主义
