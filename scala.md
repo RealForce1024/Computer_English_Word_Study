@@ -16,3 +16,8 @@
 # flexible 灵活的
 # mochanism 机制、原理
 # ultimately 最终地 adv
+# repl tools  --- read eval print loop  repl工具
+# inference 推测、推断、论断
+# nested function
+# essential 不可缺少的，精华的 apache camel essential
+# effective scala scala最佳实践
